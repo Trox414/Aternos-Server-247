@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "HIGHVanilla.aternos.me:53884",
+ "port": "53884",
+ "name": "Trox",
  "auto-night-skip": "false",
  "token": "Your_discord_bot_token_here",
  "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "loginmsg": "Hi Guys"
 }
